@@ -5,4 +5,4 @@ The goal is to bring new hackers quickly up to speed as well as give experienced
 
 Happy coding!
 
-![First concept of Hacking Guide](/img/Sundai Hacking Guide first concept.jpg)
+![First concept of Hacking Guide](img/Sundai%20Hacking%20Guide%20first%20concept.jpg)
